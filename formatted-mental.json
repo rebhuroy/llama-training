@@ -1,0 +1,1864 @@
+[
+    {
+        "text": "<human>: I'm feeling really anxious today.\n<bot>: \nI'm sorry you're feeling this way. Can you tell me more about what's causing your anxiety?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to deal with stress?\n<bot>: \nThere are several ways to manage stress, such as deep breathing exercises, physical activity, and talking to someone you trust.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel so lonely and isolated.\n<bot>: \nFeeling lonely can be really tough. Have you been able to talk to friends or family about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm having trouble sleeping at night.\n<bot>: \nDifficulty sleeping can be caused by many things. Have you tried creating a relaxing bedtime routine or reducing screen time before bed?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm overwhelmed with work.\n<bot>: \nIt sounds like you have a lot on your plate. Can you break down your tasks into smaller, more manageable steps?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling very depressed lately.\n<bot>: \nI'm really sorry to hear that. Talking about what's making you feel this way can sometimes help. What's been going on?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are the symptoms of anxiety?\n<bot>: \nCommon symptoms of anxiety include feelings of nervousness, rapid heartbeat, sweating, and difficulty concentrating. It's important to talk to a healthcare provider if you think you might be experiencing anxiety.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I can't stop worrying about everything.\n<bot>: \nConstant worrying can be really draining. Have you tried any relaxation techniques or mindfulness exercises?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling better than I did last week.\n<bot>: \nThat's great to hear! What do you think has helped you feel better?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good enough.\n<bot>: \nIt's common to feel this way sometimes, but it's important to remember your worth. Can you think of some things you like about yourself?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm feeling really sad?\n<bot>: \nIf you're feeling really sad, it might help to talk to someone you trust about it. Engaging in activities you enjoy can also help lift your mood.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of failing.\n<bot>: \nFear of failure can be paralyzing. Remember, failure is a part of learning and growing. What's something you're afraid of failing at right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my self-esteem?\n<bot>: \nImproving self-esteem takes time. Positive self-talk, setting realistic goals, and surrounding yourself with supportive people can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like no one understands me.\n<bot>: \nFeeling misunderstood can be very isolating. Have you been able to share your feelings with someone close to you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm having panic attacks frequently.\n<bot>: \nFrequent panic attacks can be very distressing. Have you talked to a healthcare provider about this? They can help you find effective treatments.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm so tired of everything.\n<bot>: \nIt sounds like you're really exhausted. Is there something specific that's wearing you out, or is it a general feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to relax?\n<bot>: \nThere are many ways to relax, such as deep breathing exercises, meditation, or spending time in nature. What usually helps you unwind?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really good today!\n<bot>: \nThat's wonderful to hear! What's making today a good day for you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I can't stop thinking about my past mistakes.\n<bot>: \nIt's tough when past mistakes keep coming to mind. Remember that everyone makes mistakes, and they don't define you. What have you learned from them?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my anger better?\n<bot>: \nManaging anger can be challenging. Techniques like deep breathing, taking a walk, or expressing your feelings in a journal can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel so worthless.\n<bot>: \nI'm really sorry you're feeling this way. It might help to talk about why you're feeling worthless. Can you share more with me?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to boost my mood?\n<bot>: \nTo boost your mood, try doing something you enjoy, exercising, or connecting with a friend. Even small activities can make a difference.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid to leave my house.\n<bot>: \nThat sounds really challenging. Have you talked to a therapist about your fears? They can help you develop strategies to feel more comfortable.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling better than I did last week.\n<bot>: \nThat's great to hear! What do you think has helped you feel better?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my future.\n<bot>: \nWorrying about the future is common, but it can be overwhelming. Have you tried setting small, achievable goals to help you feel more in control?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with grief?\n<bot>: \nGrieving is a personal process and can take time. Talking to someone you trust, allowing yourself to feel your emotions, and finding ways to honor your loss can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like a failure.\n<bot>: \nI'm really sorry you're feeling this way. Remember, everyone experiences setbacks. What happened to make you feel like a failure?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I can't focus?\n<bot>: \nIf you're having trouble focusing, try taking short breaks, reducing distractions, and setting clear, manageable tasks for yourself.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of talking to people.\n<bot>: \nSocial anxiety can be really tough. Have you tried any techniques to help manage your anxiety, like deep breathing or gradual exposure to social situations?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good enough.\n<bot>: \nIt's common to feel this way sometimes, but it's important to remember your worth. Can you think of some things you like about yourself?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some techniques for reducing anxiety?\n<bot>: \nTechniques such as deep breathing, mindfulness meditation, and physical exercise can help reduce anxiety. Have you tried any of these before?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really stressed out.\n<bot>: \nI'm sorry to hear you're feeling stressed. Can you tell me more about what's causing your stress?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I don't think I can handle this anymore.\n<bot>: \nIt sounds like you're going through a really tough time. Have you talked to anyone about how you're feeling? Sometimes sharing your burden can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to improve my mental health?\n<bot>: \nImproving mental health can involve many things, such as regular exercise, a healthy diet, sufficient sleep, and talking to a therapist. What do you think you could start with?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really good today!\n<bot>: \nThat's wonderful to hear! What's making today a good day for you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I can't stop thinking about my past mistakes.\n<bot>: \nIt's tough when past mistakes keep coming to mind. Remember that everyone makes mistakes, and they don't define you. What have you learned from them?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my anger better?\n<bot>: \nManaging anger can be challenging. Techniques like deep breathing, taking a walk, or expressing your feelings in a journal can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel so worthless.\n<bot>: \nI'm really sorry you're feeling this way. It might help to talk about why you're feeling worthless. Can you share more with me?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to boost my mood?\n<bot>: \nTo boost your mood, try doing something you enjoy, exercising, or connecting with a friend. Even small activities can make a difference.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid to leave my house.\n<bot>: \nThat sounds really challenging. Have you talked to a therapist about your fears? They can help you develop strategies to feel more comfortable.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my future.\n<bot>: \nWorrying about the future is common, but it can be overwhelming. Have you tried setting small, achievable goals to help you feel more in control?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with grief?\n<bot>: \nGrieving is a personal process and can take time. Talking to someone you trust, allowing yourself to feel your emotions, and finding ways to honor your loss can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like a failure.\n<bot>: \nI'm really sorry you're feeling this way. Remember, everyone experiences setbacks. What happened to make you feel like a failure?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I can't focus?\n<bot>: \nIf you're having trouble focusing, try taking short breaks, reducing distractions, and setting clear, manageable tasks for yourself.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of talking to people.\n<bot>: \nSocial anxiety can be really tough. Have you tried any techniques to help manage your anxiety, like deep breathing or gradual exposure to social situations?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good enough.\n<bot>: \nIt's common to feel this way sometimes, but it's important to remember your worth. Can you think of some things you like about yourself?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some techniques for reducing anxiety?\n<bot>: \nTechniques such as deep breathing, mindfulness meditation, and physical exercise can help reduce anxiety. Have you tried any of these before?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really stressed out.\n<bot>: \nI'm sorry to hear you're feeling stressed. Can you tell me more about what's causing your stress?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I don't think I can handle this anymore.\n<bot>: \nIt sounds like you're going through a really tough time. Have you talked to anyone about how you're feeling? Sometimes sharing your burden can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to improve my mental health?\n<bot>: \nImproving mental health can involve many things, such as regular exercise, a healthy diet, sufficient sleep, and talking to a therapist. What do you think you could start with?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't breathe when I'm anxious.\n<bot>: \nThat sounds really frightening. When you feel this way, try to focus on slow, deep breaths. Have you experienced this often?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm having suicidal thoughts?\n<bot>: \nIf you're having suicidal thoughts, it's very important to talk to someone immediately. Reach out to a trusted person or a mental health professional for support.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid of losing my job.\n<bot>: \nThat fear can be very stressful. Have you considered talking to a career counselor or someone you trust about your concerns?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with my negative thoughts?\n<bot>: \nChallenging negative thoughts and replacing them with positive or neutral ones can help. Have you tried writing down your thoughts and examining them critically?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like crying all the time.\n<bot>: \nCrying often can be a sign that something is deeply troubling you. Have you been able to talk to someone about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel overwhelmed?\n<bot>: \nWhen feeling overwhelmed, taking one step at a time and breaking tasks into smaller parts can help. Also, make sure to take breaks and do something you enjoy.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I think I might have depression.\n<bot>: \nIf you think you might have depression, it's important to talk to a healthcare provider. They can provide a proper diagnosis and discuss treatment options with you.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really anxious about an upcoming event.\n<bot>: \nIt's normal to feel anxious about upcoming events. Preparing as best as you can and practicing relaxation techniques might help. What event is causing you anxiety?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always on edge.\n<bot>: \nFeeling constantly on edge can be really exhausting. Have you tried any relaxation techniques, like deep breathing or mindfulness, to help calm your nerves?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm feeling hopeless?\n<bot>: \nIf you're feeling hopeless, it's crucial to reach out to someone you trust or a mental health professional. They can offer support and help you find ways to cope.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my relationship.\n<bot>: \nRelationships can be a major source of stress. Have you tried discussing your worries with your partner? Communication can often help resolve issues.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I practice self-care?\n<bot>: \nSelf-care involves taking time to do things that nurture your well-being. This could include physical activities, hobbies, or simply relaxing. What activities do you find soothing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't talk to anyone about my problems.\n<bot>: \nIt sounds like you're feeling really isolated. Talking to a mental health professional might be a good start, as they can offer support in a confidential setting.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some signs of burnout?\n<bot>: \nSigns of burnout can include physical and emotional exhaustion, reduced performance, and feeling detached from work. Are you experiencing any of these symptoms?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling a lot of pressure from my family.\n<bot>: \nFamily pressure can be very difficult to manage. Have you considered having an open conversation with your family about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my sleep?\n<bot>: \nImproving sleep can often involve creating a bedtime routine, reducing screen time before bed, and making your sleep environment comfortable. What have you tried so far?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm losing control.\n<bot>: \nFeeling out of control can be really scary. Have you tried grounding techniques or talking to someone about what you're experiencing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like giving up?\n<bot>: \nIf you feel like giving up, it's crucial to reach out to someone you trust or a mental health professional immediately. They can help you navigate through this tough time.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really good today!\n<bot>: \nThat's wonderful to hear! What's making today a good day for you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my time better?\n<bot>: \nManaging time effectively can be challenging. Have you tried using a planner or to-do lists to organize your tasks? Setting priorities can also help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like nobody cares about me.\n<bot>: \nIt sounds like you're feeling really isolated. Have you tried reaching out to a friend or family member to talk about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to build resilience?\n<bot>: \nBuilding resilience involves developing positive relationships, practicing self-care, and maintaining a hopeful outlook. Small, consistent efforts can make a big difference over time.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really down today.\n<bot>: \nI'm sorry to hear you're feeling down. Sometimes talking about it can help. Do you want to share what's been going on?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I support a friend who's struggling with mental health?\n<bot>: \nSupporting a friend involves listening without judgment, encouraging them to seek professional help, and being there for them. Have you talked to your friend about your concerns?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm under a lot of pressure at work.\n<bot>: \nWork pressure can be overwhelming. Have you tried discussing your workload with your supervisor or finding ways to manage stress at work?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some strategies for dealing with anxiety?\n<bot>: \nStrategies for managing anxiety include deep breathing exercises, mindfulness meditation, regular physical activity, and talking to a mental health professional. Which of these have you tried?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling better than I did last week.\n<bot>: \nThat's great to hear! What do you think has helped you feel better?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm stuck in a rut.\n<bot>: \nFeeling stuck can be really frustrating. Sometimes trying something new or setting small goals can help. What would you like to change?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with feeling overwhelmed?\n<bot>: \nWhen feeling overwhelmed, breaking tasks into smaller, manageable steps and taking regular breaks can help. What specific things are making you feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid of failing.\n<bot>: \nFear of failure can be paralyzing. Remember, failure is a part of learning and growing. What's something you're afraid of failing at right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my self-esteem?\n<bot>: \nImproving self-esteem takes time. Positive self-talk, setting realistic goals, and surrounding yourself with supportive people can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like no one understands me.\n<bot>: \nFeeling misunderstood can be very isolating. Have you been able to share your feelings with someone close to you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm having panic attacks frequently.\n<bot>: \nFrequent panic attacks can be very distressing. Have you talked to a healthcare provider about this? They can help you find effective treatments.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm so tired of everything.\n<bot>: \nIt sounds like you're really exhausted. Is there something specific that's wearing you out, or is it a general feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to relax?\n<bot>: \nThere are many ways to relax, such as deep breathing exercises, meditation, or spending time in nature. What usually helps you unwind?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really good today!\n<bot>: \nThat's wonderful to hear! What's making today a good day for you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I can't stop thinking about my past mistakes.\n<bot>: \nIt's tough when past mistakes keep coming to mind. Remember that everyone makes mistakes, and they don't define you. What have you learned from them?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my anger better?\n<bot>: \nManaging anger can be challenging. Techniques like deep breathing, taking a walk, or expressing your feelings in a journal can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel so worthless.\n<bot>: \nI'm really sorry you're feeling this way. It might help to talk about why you're feeling worthless. Can you share more with me?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to boost my mood?\n<bot>: \nTo boost your mood, try doing something you enjoy, exercising, or connecting with a friend. Even small activities can make a difference.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid to leave my house.\n<bot>: \nThat sounds really challenging. Have you talked to a therapist about your fears? They can help you develop strategies to feel more comfortable.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my future.\n<bot>: \nWorrying about the future is common, but it can be overwhelming. Have you tried setting small, achievable goals to help you feel more in control?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with grief?\n<bot>: \nGrieving is a personal process and can take time. Talking to someone you trust, allowing yourself to feel your emotions, and finding ways to honor your loss can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like a failure.\n<bot>: \nI'm really sorry you're feeling this way. Remember, everyone experiences setbacks. What happened to make you feel like a failure?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I can't focus?\n<bot>: \nIf you're having trouble focusing, try taking short breaks, reducing distractions, and setting clear, manageable tasks for yourself.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of talking to people.\n<bot>: \nSocial anxiety can be really tough. Have you tried any techniques to help manage your anxiety, like deep breathing or gradual exposure to social situations?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good enough.\n<bot>: \nIt's common to feel this way sometimes, but it's important to remember your worth. Can you think of some things you like about yourself?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some techniques for reducing anxiety?\n<bot>: \nTechniques such as deep breathing, mindfulness meditation, and physical exercise can help reduce anxiety. Have you tried any of these before?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really stressed out.\n<bot>: \nI'm sorry to hear you're feeling stressed. Can you tell me more about what's causing your stress?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I don't think I can handle this anymore.\n<bot>: \nIt sounds like you're going through a really tough time. Have you talked to anyone about how you're feeling? Sometimes sharing your burden can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to improve my mental health?\n<bot>: \nImproving mental health can involve many things, such as regular exercise, a healthy diet, sufficient sleep, and talking to a therapist. What do you think you could start with?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't breathe when I'm anxious.\n<bot>: \nThat sounds really frightening. When you feel this way, try to focus on slow, deep breaths. Have you experienced this often?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm having suicidal thoughts?\n<bot>: \nIf you're having suicidal thoughts, it's very important to talk to someone immediately. Reach out to a trusted person or a mental health professional for support.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid of losing my job.\n<bot>: \nThat fear can be very stressful. Have you considered talking to a career counselor or someone you trust about your concerns?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with my negative thoughts?\n<bot>: \nChallenging negative thoughts and replacing them with positive or neutral ones can help. Have you tried writing down your thoughts and examining them critically?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like crying all the time.\n<bot>: \nCrying often can be a sign that something is deeply troubling you. Have you been able to talk to someone about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel overwhelmed?\n<bot>: \nWhen feeling overwhelmed, taking one step at a time and breaking tasks into smaller parts can help. Also, make sure to take breaks and do something you enjoy.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I think I might have depression.\n<bot>: \nIf you think you might have depression, it's important to talk to a healthcare provider. They can provide a proper diagnosis and discuss treatment options with you.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really anxious about an upcoming event.\n<bot>: \nIt's normal to feel anxious about upcoming events. Preparing as best as you can and practicing relaxation techniques might help. What event is causing you anxiety?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always on edge.\n<bot>: \nFeeling constantly on edge can be really exhausting. Have you tried any relaxation techniques, like deep breathing or mindfulness, to help calm your nerves?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm feeling hopeless?\n<bot>: \nIf you're feeling hopeless, it's crucial to reach out to someone you trust or a mental health professional. They can offer support and help you find ways to cope.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my relationship.\n<bot>: \nRelationships can be a major source of stress. Have you tried discussing your worries with your partner? Communication can often help resolve issues.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I practice self-care?\n<bot>: \nSelf-care involves taking time to do things that nurture your well-being. This could include physical activities, hobbies, or simply relaxing. What activities do you find soothing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't talk to anyone about my problems.\n<bot>: \nIt sounds like you're feeling really isolated. Talking to a mental health professional might be a good start, as they can offer support in a confidential setting.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some signs of burnout?\n<bot>: \nSigns of burnout can include physical and emotional exhaustion, reduced performance, and feeling detached from work. Are you experiencing any of these symptoms?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling a lot of pressure from my family.\n<bot>: \nFamily pressure can be very difficult to manage. Have you considered having an open conversation with your family about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my sleep?\n<bot>: \nImproving sleep can often involve creating a bedtime routine, reducing screen time before bed, and making your sleep environment comfortable. What have you tried so far?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm losing control.\n<bot>: \nFeeling out of control can be really scary. Have you tried grounding techniques or talking to someone about what you're experiencing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like giving up?\n<bot>: \nIf you feel like giving up, it's crucial to reach out to someone you trust or a mental health professional immediately. They can help you navigate through this tough time.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really good today!\n<bot>: \nThat's wonderful to hear! What's making today a good day for you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I can't stop thinking about my past mistakes.\n<bot>: \nIt's tough when past mistakes keep coming to mind. Remember that everyone makes mistakes, and they don't define you. What have you learned from them?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my anger better?\n<bot>: \nManaging anger can be challenging. Techniques like deep breathing, taking a walk, or expressing your feelings in a journal can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel so worthless.\n<bot>: \nI'm really sorry you're feeling this way. It might help to talk about why you're feeling worthless. Can you share more with me?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to boost my mood?\n<bot>: \nTo boost your mood, try doing something you enjoy, exercising, or connecting with a friend. Even small activities can make a difference.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid to leave my house.\n<bot>: \nThat sounds really challenging. Have you talked to a therapist about your fears? They can help you develop strategies to feel more comfortable.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my future.\n<bot>: \nWorrying about the future is common, but it can be overwhelming. Have you tried setting small, achievable goals to help you feel more in control?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with grief?\n<bot>: \nGrieving is a personal process and can take time. Talking to someone you trust, allowing yourself to feel your emotions, and finding ways to honor your loss can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like a failure.\n<bot>: \nI'm really sorry you're feeling this way. Remember, everyone experiences setbacks. What happened to make you feel like a failure?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I can't focus?\n<bot>: \nIf you're having trouble focusing, try taking short breaks, reducing distractions, and setting clear, manageable tasks for yourself.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of talking to people.\n<bot>: \nSocial anxiety can be really tough. Have you tried any techniques to help manage your anxiety, like deep breathing or gradual exposure to social situations?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good enough.\n<bot>: \nIt's common to feel this way sometimes, but it's important to remember your worth. Can you think of some things you like about yourself?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some techniques for reducing anxiety?\n<bot>: \nTechniques such as deep breathing, mindfulness meditation, and physical exercise can help reduce anxiety. Have you tried any of these before?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really stressed out.\n<bot>: \nI'm sorry to hear you're feeling stressed. Can you tell me more about what's causing your stress?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I don't think I can handle this anymore.\n<bot>: \nIt sounds like you're going through a really tough time. Have you talked to anyone about how you're feeling? Sometimes sharing your burden can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to improve my mental health?\n<bot>: \nImproving mental health can involve many things, such as regular exercise, a healthy diet, sufficient sleep, and talking to a therapist. What do you think you could start with?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't breathe when I'm anxious.\n<bot>: \nThat sounds really frightening. When you feel this way, try to focus on slow, deep breaths. Have you experienced this often?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm having suicidal thoughts?\n<bot>: \nIf you're having suicidal thoughts, it's very important to talk to someone immediately. Reach out to a trusted person or a mental health professional for support.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid of losing my job.\n<bot>: \nThat fear can be very stressful. Have you considered talking to a career counselor or someone you trust  about your concerns?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with my negative thoughts?\n<bot>: \nChallenging negative thoughts and replacing them with positive or neutral ones can help. Have you tried writing down your thoughts and examining them critically?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like crying all the time.\n<bot>: \nCrying often can be a sign that something is deeply troubling you. Have you been able to talk to someone about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel overwhelmed?\n<bot>: \nWhen feeling overwhelmed, taking one step at a time and breaking tasks into smaller parts can help. Also, make sure to take breaks and do something you enjoy.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I think I might have depression.\n<bot>: \nIf you think you might have depression, it's important to talk to a healthcare provider. They can provide a proper diagnosis and discuss treatment options with you.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really anxious about an upcoming event.\n<bot>: \nIt's normal to feel anxious about upcoming events. Preparing as best as you can and practicing relaxation techniques might help. What event is causing you anxiety?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always on edge.\n<bot>: \nFeeling constantly on edge can be really exhausting. Have you tried any relaxation techniques, like deep breathing or mindfulness, to help calm your nerves?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm feeling hopeless?\n<bot>: \nIf you're feeling hopeless, it's crucial to reach out to someone you trust or a mental health professional. They can offer support and help you find ways to cope.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm worried about my relationship.\n<bot>: \nRelationships can be a major source of stress. Have you tried discussing your worries with your partner? Communication can often help resolve issues.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I practice self-care?\n<bot>: \nSelf-care involves taking time to do things that nurture your well-being. This could include physical activities, hobbies, or simply relaxing. What activities do you find soothing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't talk to anyone about my problems.\n<bot>: \nIt sounds like you're feeling really isolated. Talking to a mental health professional might be a good start, as they can offer support in a confidential setting.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some signs of burnout?\n<bot>: \nSigns of burnout can include physical and emotional exhaustion, reduced performance, and feeling detached from work. Are you experiencing any of these symptoms?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling a lot of pressure from my family.\n<bot>: \nFamily pressure can be very difficult to manage. Have you considered having an open conversation with your family about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my sleep?\n<bot>: \nImproving sleep can often involve creating a bedtime routine, reducing screen time before bed, and making your sleep environment comfortable. What have you tried so far?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm losing control.\n<bot>: \nFeeling out of control can be really scary. Have you tried grounding techniques or talking to someone about what you're experiencing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like giving up?\n<bot>: \nIf you feel like giving up, it's crucial to reach out to someone you trust or a mental health professional immediately. They can help you navigate through this tough time.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I don't belong anywhere.\n<bot>: \nFeeling like you don't belong can be very painful. Have you thought about joining a group or community that shares your interests? It might help you connect with others.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I be more positive?\n<bot>: \nBeing more positive can start with small steps, like practicing gratitude, surrounding yourself with positive influences, and challenging negative thoughts. What makes you feel positive?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always tired.\n<bot>: \nAlways feeling tired can be draining. Have you looked into your sleep habits, diet, and stress levels? Sometimes small changes in these areas can make a big difference.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel lonely?\n<bot>: \nIf you're feeling lonely, reaching out to friends or family, joining clubs or groups, and finding online communities can help. Have you tried any of these before?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid to fail.\n<bot>: \nFear of failure is common and can be paralyzing. Remember that failure is a part of learning and growing. Can you share more about what you're afraid of failing at?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I stay motivated?\n<bot>: \nStaying motivated can be tough. Setting clear, achievable goals, rewarding yourself for small achievements, and maintaining a positive mindset can help. What motivates you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't trust anyone.\n<bot>: \nFeeling unable to trust can be really isolating. Building trust takes time and small steps. Have you had any experiences that have particularly impacted your ability to trust?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to relax?\n<bot>: \nWays to relax include deep breathing exercises, meditation, reading, or spending time in nature. What activities do you find relaxing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling better than I did last week.\n<bot>: \nThat's great to hear! What do you think has helped you feel better?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm stuck in a rut.\n<bot>: \nFeeling stuck can be really frustrating. Sometimes trying something new or setting small goals can help. What would you like to change?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with feeling overwhelmed?\n<bot>: \nWhen feeling overwhelmed, breaking tasks into smaller, manageable steps and taking regular breaks can help. What specific things are making you feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid of failing.\n<bot>: \nFear of failure can be paralyzing. Remember, failure is a part of learning and growing. What's something you're afraid of failing at right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my self-esteem?\n<bot>: \nImproving self-esteem takes time. Positive self-talk, setting realistic goals, and surrounding yourself with supportive people can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like no one understands me.\n<bot>: \nFeeling misunderstood can be very isolating. Have you been able to share your feelings with someone close to you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm having panic attacks frequently.\n<bot>: \nFrequent panic attacks can be very distressing. Have you talked to a healthcare provider about this? They can help you find effective treatments.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm so tired of everything.\n<bot>: \nIt sounds like you're really exhausted. Is there something specific that's wearing you out, or is it a general feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do to relax?\n<bot>: \nThere are many ways to relax, such as deep breathing exercises, meditation, or spending time in nature. What usually helps you unwind?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I build better relationships?\n<bot>: \nBuilding better relationships involves effective communication, empathy, and trust. Have you considered what specific areas you want to improve in your relationships?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like no one cares about me.\n<bot>: \nIt sounds like you're feeling really isolated. Have you tried reaching out to someone you trust to talk about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with rejection?\n<bot>: \nDealing with rejection is tough, but it's a part of life. Focus on self-care, learn from the experience, and remember that it doesn't define your worth.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really down today.\n<bot>: \nI'm sorry to hear that. Sometimes talking about what's bothering you can help. Is there something specific that's making you feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like I'm not good enough?\n<bot>: \nFeeling not good enough can be really hard. Remember to be kind to yourself and focus on your strengths. Have you tried positive affirmations?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really nervous about a job interview.\n<bot>: \nIt's normal to feel nervous about job interviews. Preparing well and practicing common interview questions can help. What specific aspects are making you nervous?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my time better?\n<bot>: \nManaging time effectively can involve setting priorities, creating a schedule, and taking regular breaks. Have you tried any time management techniques?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always making mistakes.\n<bot>: \nEveryone makes mistakes; it's part of being human. What's important is learning from them. Is there a specific mistake that's on your mind?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like giving up on everything?\n<bot>: \nIf you're feeling like giving up, it's crucial to reach out to someone you trust or a mental health professional immediately. They can help you find ways to cope.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I be more mindful?\n<bot>: \nPracticing mindfulness involves focusing on the present moment without judgment. Techniques like meditation, deep breathing, and mindful observation can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of being judged by others.\n<bot>: \nFear of judgment is common. Remember that others' opinions do not define you. Have you tried focusing on your strengths and what makes you unique?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with social anxiety?\n<bot>: \nDealing with social anxiety can involve gradual exposure to social situations, practicing relaxation techniques, and seeking support from a therapist. Have you tried any of these?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not achieving anything.\n<bot>: \nIt's tough to feel that way. Setting small, achievable goals and celebrating your progress can help. What would you like to achieve?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm feeling very low?\n<bot>: \nIf you're feeling very low, reaching out to a trusted friend, family member, or mental health professional can provide support and help you navigate through this tough time.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't keep up with everything.\n<bot>: \nFeeling overwhelmed by life's demands is common. Prioritizing tasks and asking for help when needed can make a big difference. What's the biggest thing on your plate right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with constant worry?\n<bot>: \nConstant worry can be draining. Techniques such as mindfulness, setting aside 'worry time,' and talking to a therapist can help manage it.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I have no energy.\n<bot>: \nLack of energy can be related to many factors, including sleep, diet, and stress. Have you looked into these areas to see if there might be an underlying cause?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to build resilience?\n<bot>: \nBuilding resilience involves developing a positive mindset, staying connected with supportive people, and learning from experiences. What helps you stay strong in tough times?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really lonely.\n<bot>: \nLoneliness can be very painful. Reaching out to friends, joining groups with similar interests, or talking to a therapist can help. Have you tried any of these?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I stay positive during tough times?\n<bot>: \nStaying positive during tough times can be challenging. Practicing gratitude, focusing on things within your control, and seeking support from others can help.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm stuck in a negative cycle.\n<bot>: \nFeeling stuck in a negative cycle can be overwhelming. Identifying negative patterns and gradually replacing them with positive habits can help. What are some patterns you've noticed?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like I'm losing my mind?\n<bot>: \nFeeling like you're losing your mind is very distressing. It might help to talk to a mental health professional who can provide support and strategies to manage your feelings.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my concentration?\n<bot>: \nImproving concentration can involve minimizing distractions, taking regular breaks, and practicing mindfulness. What typically distracts you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling a bit better today.\n<bot>: \nThat's good to hear! What do you think has contributed to you feeling better today?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage stress at work?\n<bot>: \nManaging stress at work can involve setting boundaries, taking regular breaks, and practicing stress-relief techniques like deep breathing. What's causing you the most stress at work?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not making any progress.\n<bot>: \nIt's tough when progress feels slow. Sometimes small steps and celebrating even minor achievements can help. What area are you trying to progress in?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with criticism?\n<bot>: \nDealing with criticism involves staying calm, understanding the feedback, and using it constructively. It's important to separate constructive criticism from negative comments.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm constantly failing.\n<bot>: \nConstantly feeling like a failure can be very hard. Remember, failure is a part of growth. Can you identify one area where you feel you've succeeded?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel hopeless?\n<bot>: \nIf you're feeling hopeless, reaching out to someone you trust or a mental health professional is important. They can provide support and help you find ways to cope.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my anxiety?\n<bot>: \nManaging anxiety can involve techniques like deep breathing, mindfulness, physical exercise, and talking to a therapist. Have you tried any of these?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really happy today.\n<bot>: \nThat's wonderful to hear! What's making you feel happy today?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not worth anything.\n<bot>: \nFeeling worthless can be very painful. It's important to remember your value and worth. Have you tried talking to someone about these feelings?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What are some ways to cope with stress?\n<bot>: \nCoping with stress can involve physical activities, relaxation techniques, hobbies, and talking to someone you trust. What usually helps you when you're stressed?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm afraid of the future.\n<bot>: \nFear of the future is common. Focusing on the present and setting small, achievable goals can help manage this fear. What specifically about the future worries you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I develop a positive mindset?\n<bot>: \nDeveloping a positive mindset involves practicing gratitude, surrounding yourself with positive influences, and challenging negative thoughts. What are some positive influences in your life?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I stop overthinking?\n<bot>: \nStopping overthinking can involve mindfulness practices, setting aside specific times for worrying, and challenging negative thoughts. Have you tried any of these strategies?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm invisible.\n<bot>: \nFeeling invisible can be very isolating. Reaching out to friends or family and expressing your feelings might help. Have you talked to anyone about this?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I can't sleep?\n<bot>: \nIf you can't sleep, try establishing a calming bedtime routine, avoiding screens before bed, and creating a comfortable sleep environment. Have you tried any of these tips?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good at anything.\n<bot>: \nIt can be really hard to feel that way. Everyone has strengths and talents. Can you think of something you're proud of or enjoy doing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I be more confident?\n<bot>: \nBuilding confidence can involve positive self-talk, setting and achieving small goals, and surrounding yourself with supportive people. What do you feel confident about?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always angry.\n<bot>: \nConstant anger can be a sign that something is deeply troubling you. Have you tried talking to a therapist about what's causing your anger?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I'm feeling overwhelmed at work?\n<bot>: \nIf you're feeling overwhelmed at work, prioritizing tasks, taking regular breaks, and communicating with your supervisor can help. What's causing the most stress at work?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm scared of being alone.\n<bot>: \nFear of being alone is very common. Building a strong support network and engaging in activities you enjoy can help. Have you tried reaching out to friends or family?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my mood?\n<bot>: \nImproving your mood can involve physical activity, connecting with loved ones, engaging in hobbies, and practicing gratitude. What usually lifts your spirits?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm constantly stressed.\n<bot>: \nConstant stress can be exhausting. Identifying stressors and developing coping strategies, like relaxation techniques or talking to a therapist, can help. What's stressing you out the most?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my anger?\n<bot>: \nManaging anger can involve techniques such as deep breathing, physical activity, and talking to a therapist. Have you tried any anger management strategies?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not being heard.\n<bot>: \nFeeling unheard can be very frustrating. Assertive communication and expressing your feelings clearly can help. Have you tried discussing this with those around you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel anxious all the time?\n<bot>: \nIf you're feeling anxious all the time, relaxation techniques, physical activity, and talking to a therapist can help. Have you tried any of these methods?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not in control of my life.\n<bot>: \nFeeling out of control can be very unsettling. Setting small, achievable goals and focusing on what you can control might help. What aspects of your life feel out of control?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with grief?\n<bot>: \nCoping with grief can involve allowing yourself to feel the emotions, seeking support from friends or a therapist, and finding ways to honor your loved one. Have you reached out for support?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I don't know who I am anymore.\n<bot>: \nFeeling lost in your identity can be very confusing. Reflecting on your values, interests, and past experiences might help. Have you tried talking to someone about this?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I'm feeling stuck in life?\n<bot>: \nIf you're feeling stuck, setting small, actionable goals and trying new activities can help. Sometimes a change of perspective can make a big difference.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't handle anything anymore.\n<bot>: \nIt sounds like you're feeling overwhelmed. Seeking support from a trusted person or a mental health professional can provide relief. What's weighing on you the most?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I be more productive?\n<bot>: \nBeing more productive can involve setting clear goals, breaking tasks into smaller steps, and minimizing distractions. Have you tried using any productivity tools or techniques?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always behind.\n<bot>: \nFeeling like you're always behind can be very stressful. Prioritizing tasks and setting realistic deadlines might help. What's the most urgent thing on your list?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like my life has no purpose?\n<bot>: \nFeeling like your life has no purpose can be very disheartening. Reflecting on your values, interests, and passions might help you find direction. Have you considered talking to a therapist about this?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I develop healthier habits?\n<bot>: \nDeveloping healthier habits involves setting realistic goals, creating a supportive environment, and being consistent. What specific habits are you looking to develop?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always stressed about money.\n<bot>: \nFinancial stress is very common and can be overwhelming. Creating a budget and seeking financial advice can help. Have you tried any financial planning strategies?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with feeling inadequate?\n<bot>: \nDealing with feelings of inadequacy can involve challenging negative thoughts, practicing self-compassion, and focusing on your strengths. What are some of your strengths?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm failing in my relationships.\n<bot>: \nFeeling like you're failing in relationships can be very painful. Open communication and seeking counseling might help. Have you talked to your partner or a therapist about this?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I find motivation?\n<bot>: \nFinding motivation can involve setting achievable goals, rewarding yourself for progress, and surrounding yourself with positive influences. What are you trying to get motivated for?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm drowning in responsibilities.\n<bot>: \nFeeling overwhelmed by responsibilities is very common. Prioritizing tasks and delegating when possible can help. What's the biggest responsibility on your mind right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel disconnected from everyone?\n<bot>: \nFeeling disconnected can be very isolating. Reaching out to friends or joining community activities can help. Have you tried reconnecting with someone close to you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my emotional well-being?\n<bot>: \nImproving emotional well-being can involve practicing mindfulness, connecting with supportive people, and engaging in activities you enjoy. What activities make you feel good?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't cope with anything anymore.\n<bot>: \nIt sounds like you're feeling overwhelmed. Reaching out for support from a trusted person or a mental health professional can provide relief. What's the biggest challenge you're facing right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like I'm a burden to others?\n<bot>: \nFeeling like a burden can be very painful. It's important to remember that people who care about you want to help. Have you tried talking to someone about how you're feeling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my work-life balance?\n<bot>: \nImproving work-life balance involves setting boundaries, prioritizing tasks, and making time for activities you enjoy. What part of your work-life balance feels off?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I'm feeling really anxious today.\n<bot>: \nI'm sorry to hear that. Anxiety can be overwhelming. Deep breathing, mindfulness exercises, or talking to someone might help. What's making you feel anxious today?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like my life is falling apart?\n<bot>: \nFeeling like your life is falling apart can be very distressing. Seeking support from friends, family, or a mental health professional can provide guidance and comfort. What's been going on recently?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my feelings of guilt?\n<bot>: \nManaging feelings of guilt involves understanding the source of your guilt, practicing self-compassion, and taking constructive actions if needed. Have you tried talking about your feelings with someone you trust?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm stuck in a rut.\n<bot>: \nFeeling stuck in a rut can be frustrating. Trying new activities, setting small goals, and talking to someone can help. Have you tried anything new recently?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I build better relationships?\n<bot>: \nBuilding better relationships involves open communication, empathy, and spending quality time together. What specific relationships are you looking to improve?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always under pressure.\n<bot>: \nConstant pressure can be very stressful. Identifying sources of pressure and developing coping strategies, like relaxation techniques or time management, can help. What's putting the most pressure on you?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my mental health?\n<bot>: \nImproving mental health can involve regular physical activity, healthy eating, adequate sleep, and seeking therapy. What areas of your mental health are you looking to improve?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always disappointing people.\n<bot>: \nFeeling like you're always disappointing people can be very hard. It's important to remember that you can't please everyone. Have you talked to those close to you about how you feel?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like I'm losing control?\n<bot>: \nLosing control can be very frightening. Reaching out for support and developing coping strategies can help regain a sense of stability. What's making you feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I practice self-care?\n<bot>: \nPracticing self-care involves activities that nurture your physical, emotional, and mental well-being, such as exercise, hobbies, and spending time with loved ones. What are some activities you enjoy?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not doing anything meaningful.\n<bot>: \nFeeling like you're not doing anything meaningful can be very disheartening. Reflecting on your values and setting goals aligned with them might help. What activities or causes do you care about?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like I'm always failing?\n<bot>: \nConstantly feeling like you're failing can be very discouraging. Remember to acknowledge your efforts and small successes. What areas do you feel like you're failing in?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with feeling overwhelmed by everything?\n<bot>: \nDealing with feeling overwhelmed can involve breaking tasks into smaller steps, prioritizing, and seeking support. What's the most overwhelming part of your life right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm losing touch with reality.\n<bot>: \nLosing touch with reality can be very unsettling. It's important to seek support from a mental health professional to discuss these feelings and get the help you need.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like I don't belong anywhere?\n<bot>: \nFeeling like you don't belong anywhere can be very isolating. Finding communities or groups with shared interests can help. Have you tried joining any new groups or activities?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my self-esteem?\n<bot>: \nImproving self-esteem involves positive self-talk, setting and achieving small goals, and surrounding yourself with supportive people. What aspects of yourself are you proud of?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not making any impact.\n<bot>: \nFeeling like you're not making an impact can be very discouraging. Reflecting on your contributions and finding ways to engage in meaningful activities can help. What impact would you like to make?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like I'm losing hope?\n<bot>: \nIf you're losing hope, it's important to reach out to someone you trust or a mental health professional for support. They can help you find ways to cope and regain hope.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my emotions better?\n<bot>: \nManaging emotions better can involve mindfulness, regular physical activity, and talking to a therapist. Have you tried any techniques for emotional regulation?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always second-guessing myself.\n<bot>: \nSecond-guessing yourself can be very frustrating. Building self-confidence and trusting your instincts might help. What situations make you second-guess yourself the most?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with feeling lonely?\n<bot>: \nCoping with loneliness can involve reaching out to friends or family, joining social groups, and engaging in activities you enjoy. What activities do you find most fulfilling?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always on edge.\n<bot>: \nAlways feeling on edge can be exhausting. Relaxation techniques like deep breathing, mindfulness, and talking to a therapist might help. What's been causing you to feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like I'm not moving forward in life?\n<bot>: \nFeeling stuck can be very frustrating. Setting small, achievable goals and seeking new experiences can help. What areas of your life do you feel stuck in?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I build a support network?\n<bot>: \nBuilding a support network involves connecting with people who share similar interests, reaching out to friends and family, and being open to new relationships. Have you tried joining any local groups or online communities?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always chasing after something I can't reach.\n<bot>: \nFeeling like you're chasing something unattainable can be very frustrating. Reflecting on your goals and breaking them into smaller, manageable steps might help. What's your main goal right now?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I develop a more positive outlook on life?\n<bot>: \nDeveloping a more positive outlook involves practicing gratitude, surrounding yourself with positive influences, and challenging negative thoughts. What positive influences do you have in your life?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm drowning in negative thoughts.\n<bot>: \nNegative thoughts can be overwhelming. Challenging these thoughts and practicing mindfulness can help. Have you considered talking to a therapist about your feelings?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What should I do if I feel like I'm stuck in the past?\n<bot>: \nFeeling stuck in the past can be very difficult. Working through these feelings with a therapist and focusing on the present might help. Have you tried any mindfulness practices?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I handle feeling constantly judged?\n<bot>: \nFeeling constantly judged can be very stressful. Practicing self-acceptance and focusing on your own values might help. What situations make you feel most judged?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not living up to my potential.\n<bot>: \nFeeling like you're not living up to your potential can be very frustrating. Setting realistic goals and seeking support might help. What areas of your life would you like to improve?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I stay motivated when I'm feeling down?\n<bot>: \nStaying motivated when feeling down can be challenging.Setting small, achievable goals and rewarding yourself for progress can help. What usually helps lift your spirits?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always in conflict with others.\n<bot>: \nConstant conflict can be very draining. Improving communication skills and seeking to understand others' perspectives might help. What are the common conflicts you face?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with feeling left out?\n<bot>: \nFeeling left out can be very painful. Reaching out to friends, expressing your feelings, and finding new social groups can help. Have you talked to anyone about how you feel?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I can't trust anyone.\n<bot>: \nTrust issues can be very challenging. Building trust gradually and communicating openly with others might help. Have you considered talking to a therapist about these feelings?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like giving up?\n<bot>: \nFeeling like giving up is very serious. It's important to reach out to someone you trust or a mental health professional immediately for support. They can help you navigate these feelings.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my resilience?\n<bot>: \nImproving resilience involves developing a positive mindset, setting realistic goals, and seeking support from others. What challenges are you trying to become more resilient against?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm failing as a parent.\n<bot>: \nFeeling like you're failing as a parent can be very distressing. Seeking parenting resources, joining support groups, and talking to other parents might help. What specific challenges are you facing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with rejection better?\n<bot>: \nDealing with rejection involves accepting your feelings, learning from the experience, and not taking it personally. What recent rejection have you experienced?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always comparing myself to others.\n<bot>: \nConstant comparison can be very harmful. Focusing on your own progress and practicing gratitude might help. What triggers your comparisons?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I stop procrastinating?\n<bot>: \nStopping procrastination involves breaking tasks into smaller steps, setting deadlines, and minimizing distractions. Have you tried any productivity techniques?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not good enough for my job.\n<bot>: \nFeeling inadequate at work can be very stressful. Seeking feedback, building your skills, and acknowledging your achievements might help. What aspects of your job do you feel less confident about?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I cope with constant change?\n<bot>: \nCoping with constant change involves developing adaptability, seeking support, and focusing on what you can control. What recent changes have you experienced?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always being criticized.\n<bot>: \nConstant criticism can be very demoralizing. Setting boundaries and focusing on constructive feedback might help. Who is criticizing you the most?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I deal with feelings of loneliness in a crowd?\n<bot>: \nFeeling lonely in a crowd can be very isolating. Connecting with people on a deeper level and seeking meaningful interactions might help. Have you tried joining smaller, interest-based groups?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm losing my mind.\n<bot>: \nFeeling like you're losing your mind can be very frightening. Seeking support from a mental health professional to discuss these feelings and get the help you need is important.",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my stress better?\n<bot>: \nManaging stress involves practicing relaxation techniques, staying organized, and seeking support from friends or professionals. What are the main sources of your stress?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always letting people down.\n<bot>: \nFeeling like you're letting people down can be very hard. Setting realistic expectations and communicating openly might help. Have you talked to those you're worried about letting down?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: What can I do if I feel like my emotions are out of control?\n<bot>: \nFeeling out of control can be very overwhelming. Techniques such as deep breathing, mindfulness, and seeking therapy can help. Have you tried any emotion regulation strategies?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I find joy in everyday life?\n<bot>: \nFinding joy in everyday life can involve practicing gratitude, engaging in activities you love, and connecting with others. What brings you joy?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm a failure.\n<bot>: \nFeeling like a failure can be very discouraging. It's important to recognize your efforts and achievements. What areas of your life make you feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my communication skills?\n<bot>: \nImproving communication skills involves active listening, expressing yourself clearly, and being mindful of non-verbal cues. What specific aspects of communication are you looking to improve?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not appreciated.\n<bot>: \nFeeling unappreciated can be very hurtful. Communicating your feelings and seeking feedback might help. Have you talked to those around you about how you feel?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I develop better coping mechanisms?\n<bot>: \nDeveloping better coping mechanisms involves identifying your stressors, practicing mindfulness, and seeking support. What current coping mechanisms are you using?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always exhausted.\n<bot>: \nConstant exhaustion can be very draining. Ensuring adequate rest, managing stress, and seeking medical advice if necessary might help. What's contributing to your exhaustion?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I become more assertive?\n<bot>: \nBecoming more assertive involves practicing clear communication, setting boundaries, and maintaining self-respect. What situations make you feel less assertive?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not living up to expectations.\n<bot>: \nNot living up to expectations can be very discouraging. Setting realistic goals and communicating openly about your capabilities might help. Whose expectations are you trying to meet?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I find balance in my life?\n<bot>: \nFinding balance involves prioritizing activities, setting boundaries, and making time for self-care. What areas of your life feel unbalanced?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always sacrificing my own needs.\n<bot>: \nAlways sacrificing your own needs can be very draining. Setting boundaries and ensuring self-care might help. What needs are you neglecting?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I handle criticism better?\n<bot>: \nHandling criticism better involves listening objectively, seeking constructive feedback, and not taking it personally. What types of criticism do you find hardest to handle?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm not doing enough.\n<bot>: \nFeeling like you're not doing enough can be very discouraging. Recognizing your efforts and setting realistic goals might help. What areas do you feel you're falling short in?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my self-awareness?\n<bot>: \nImproving self-awareness involves regular self-reflection, seeking feedback, and practicing mindfulness. Have you tried any self-awareness exercises?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always worried about the future.\n<bot>: \nConstantly worrying about the future can be very stressful. Focusing on the present and setting realistic future goals might help. What specific future concerns are on your mind?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I build better habits?\n<bot>: \nBuilding better habits involves setting clear goals, creating a supportive environment, and being consistent. What specific habits are you looking to develop?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always disappointing myself.\n<bot>: \nFeeling like you're always disappointing yourself can be very disheartening. It's important to practice self-compassion and acknowledge your efforts. What expectations do you feel you're not meeting?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I overcome feelings of inadequacy?\n<bot>: \nOvercoming feelings of inadequacy involves challenging negative thoughts, focusing on your strengths, and seeking support when needed. What specific situations trigger your feelings of inadequacy?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always playing catch-up.\n<bot>: \nConstantly feeling like you're playing catch-up can be very stressful. Prioritizing tasks and setting realistic deadlines might help. What tasks or responsibilities are you struggling to keep up with?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I become more resilient in the face of challenges?\n<bot>: \nBecoming more resilient involves developing a positive mindset, seeking support, and learning from setbacks. What recent challenges have you faced?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always overlooked.\n<bot>: \nFeeling overlooked can be very disheartening. Communicating your contributions and seeking opportunities to showcase your skills might help. What situations do you feel you're being overlooked in?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I become more patient?\n<bot>: \nBecoming more patient involves practicing mindfulness, reframing situations, and setting realistic expectations. What situations do you struggle with patience the most?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always in survival mode.\n<bot>: \nAlways feeling in survival mode can be very exhausting. Seeking support and finding ways to prioritize self-care might help. What's causing you to feel this way?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I improve my problem-solving skills?\n<bot>: \nImproving problem-solving skills involves breaking down problems, brainstorming solutions, and learning from past experiences. What specific problems would you like to work on?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: I feel like I'm always letting myself down.\n<bot>: \nFeeling like you're letting yourself down can be very disheartening. It's important to practice self-compassion and focus on progress, not perfection. What goals do you feel you're falling short on?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    },
+    {
+        "text": "<human>: How can I manage my time better?\n<bot>: \nManaging time better involves prioritizing tasks, setting goals, and minimizing distractions. What specific time management challenges are you facing?",
+        "metadata": {
+            "source": "rebhu_roy"
+        }
+    }
+]
+
+

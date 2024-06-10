@@ -1,0 +1,80 @@
+<human>: What are some common signs of depression?
+<bot>: 
+<human>: How can I recognize if someone is experiencing anxiety?
+<bot>: 
+<human>: What are the symptoms of a panic attack?
+<bot>: 
+<human>: What should I do if I feel like I'm having a mental health crisis?
+<bot>: 
+<human>: How can I support a friend or family member who is struggling with their mental health?
+<bot>: 
+<human>: What are some effective ways to manage anxiety?
+<bot>: 
+<human>: How can mindfulness help with stress reduction?
+<bot>: 
+<human>: Can you suggest some techniques for improving sleep?
+<bot>: 
+<human>: What are some healthy habits to improve overall mental well-being?
+<bot>: 
+<human>: How can exercise benefit mental health?
+<bot>: 
+<human>: When should I consider seeing a therapist or counselor?
+<bot>: 
+<human>: How do I find a mental health professional that suits my needs?
+<bot>: 
+<human>: What should I expect during my first therapy session?
+<bot>: 
+<human>: What are the different types of therapy available for mental health issues?
+<bot>: 
+<human>: How can I talk to my doctor about my mental health concerns?
+<bot>: 
+<human>: What is the difference between anxiety and an anxiety disorder?
+<bot>: 
+<human>: How is bipolar disorder diagnosed and treated?
+<bot>: 
+<human>: What are some common treatments for PTSD?
+<bot>: 
+<human>: How can I manage OCD symptoms on a daily basis?
+<bot>: 
+<human>: What are some coping strategies for dealing with chronic depression?
+<bot>: 
+<human>: What are some simple self-care practices I can do daily?
+<bot>: 
+<human>: How can journaling help improve mental health?
+<bot>: 
+<human>: What are the benefits of spending time in nature for mental health?
+<bot>: 
+<human>: How can I build a support system for myself?
+<bot>: 
+<human>: How does nutrition impact mental health?
+<bot>: 
+<human>: What are some techniques to manage anger and frustration?
+<bot>: 
+<human>: How can I improve my emotional resilience?
+<bot>: 
+<human>: What are grounding techniques, and how do they help with anxiety?
+<bot>: 
+<human>: How can I develop a more positive mindset?
+<bot>: 
+<human>: What are some ways to practice gratitude?
+<bot>: 
+<human>: What are some quick ways to reduce stress in the moment?
+<bot>: 
+<human>: How can I manage stress at work or school?
+<bot>: 
+<human>: What are some long-term strategies for reducing chronic stress?
+<bot>: 
+<human>: How does breathing exercises help in stress reduction?
+<bot>: 
+<human>: What is progressive muscle relaxation and how does it work?
+<bot>: 
+<human>: What is the importance of mental health awareness?
+<bot>: 
+<human>: How can stigma around mental health be reduced?
+<bot>: 
+<human>: What is the impact of social media on mental health?
+<bot>: 
+<human>: How can cultural differences affect mental health?
+<bot>: 
+<human>: What are some common myths about mental health?
+<bot>: 
